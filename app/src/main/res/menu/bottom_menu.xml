@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_today"
+        android:contentDescription="@string/menu_button_for_weather_window"
+        android:icon="@drawable/ic_baseline"
+        app:showAsAction="always"
+        android:title="@string/weather"/>
+
+    <item
+        android:id="@+id/menu_notify"
+        android:contentDescription="@string/menu_button_for_notify_window"
+        android:icon="@drawable/ic_access_alarm"
+        app:showAsAction="ifRoom"
+        android:title="@string/notification"/>
+</menu>

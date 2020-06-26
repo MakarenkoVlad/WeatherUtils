@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fragment_padding">16dp</dimen>
+    <dimen name="fragment_margin">16dp</dimen>
+    <dimen name="current_inner_layout_padding">16dp</dimen>
+    <dimen name="forecast_inner_layout_padding">16dp</dimen>
+    <dimen name="forecast_item_padding">16dp</dimen>
+    <dimen name="forecast_item_margin_vertical">16dp</dimen>
+    <dimen name="schedule_weather_alert_dialog_horizontal_margin">16dp</dimen>
+</resources>

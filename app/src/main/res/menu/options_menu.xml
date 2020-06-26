@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/settings"
+        android:id="@+id/options_settings"
+        android:contentDescription="@string/settings"/>
+
+    <item
+        android:title="@string/clear_application_data"
+        android:id="@+id/options_clear"
+        android:contentDescription="@string/clears_application_settings"/>
+</menu>
